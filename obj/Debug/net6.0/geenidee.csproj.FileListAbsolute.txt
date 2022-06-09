@@ -1,0 +1,75 @@
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\appsettings.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\geenidee.exe
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\geenidee.deps.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\geenidee.runtimeconfig.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\geenidee.pdb
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.csproj.AssemblyReference.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.AssemblyInfoInputs.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.AssemblyInfo.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.csproj.CoreCompileInputs.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.RazorAssemblyInfo.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.RazorAssemblyInfo.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\scopedcss\bundle\geenidee.styles.css
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.csproj.CopyComplete
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\refint\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.pdb
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\geenidee.genruntimeconfig.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net6.0\ref\geenidee.dll
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\appsettings.json
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\geenidee.exe
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\geenidee.deps.json
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\geenidee.runtimeconfig.json
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\geenidee.dll
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\geenidee.pdb
+C:\Users\youss\OneDrive\Desktop\DH-main\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.RazorAssemblyInfo.cache
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.RazorAssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\scopedcss\bundle\geenidee.styles.css
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.csproj.CopyComplete
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.dll
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\refint\geenidee.dll
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.pdb
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\geenidee.genruntimeconfig.cache
+C:\Users\youss\OneDrive\Desktop\DH-main\obj\Debug\net6.0\ref\geenidee.dll
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\appsettings.json
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\geenidee.exe
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\geenidee.deps.json
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\geenidee.runtimeconfig.json
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\geenidee.dll
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\geenidee.pdb
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.AssemblyInfoInputs.cache
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.AssemblyInfo.cs
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.RazorAssemblyInfo.cache
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.RazorAssemblyInfo.cs
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\scopedcss\bundle\geenidee.styles.css
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.csproj.CopyComplete
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.dll
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\refint\geenidee.dll
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.pdb
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\geenidee.genruntimeconfig.cache
+C:\Users\natha\Downloads\DEV-HEV-master\DEV-HEV-master\obj\Debug\net6.0\ref\geenidee.dll

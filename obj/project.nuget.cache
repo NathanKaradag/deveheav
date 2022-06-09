@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kk9TNWIn7hJZB76J0Hj77WX/JnHQ6jhca+EztyW0FLu4OyPeAU8GKTphFEhlrDHmJsomIGft+rmCZ13qWMWL1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Downloads\\DEV-HEV-master\\DEV-HEV-master\\geenidee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.11\\microsoft.aspnetcore.spaservices.extensions.5.0.11.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,113 @@
+/* Form Button {
+    width: 100%;
+    max-width: 79px;
+} */
+
+h2 {
+    color: #141414;
+}
+
+h6 {
+    color: rgb(158, 253, 15);
+}
+
+hr.line {
+    border: 1px solid #313131;
+    width: 175px;
+}
+
+.app {
+    margin: auto;
+    padding-top: 40px;
+    width: 950px;
+    text-align: center;
+}
+
+.lobby {
+    width: 400px;
+    margin: auto;
+}
+
+.chat {
+    float: left;
+    display: grid;
+}
+
+.leave-room {
+    text-align:justify;
+    margin-bottom: 4px;
+}
+
+.user-list {
+    
+    float: left;
+    background-color: transparent;
+    color:white;
+    width: auto;
+    height: auto;
+    margin-right: auto;
+}
+
+.message-container {
+    position: relative;
+    float: inline-end;
+    width: auto;
+    max-width: 300px;
+    min-width: 300px;
+    height: 500px;    
+    background-color: white;
+    /* background-image: url('./assets/images/starry-sky-2675322_1920.jpg'); */
+    overflow: auto;
+    box-shadow: 2px 1px 1px 1px rgba(0,0,0,0.2);
+
+    border-radius: 5px;
+    margin-bottom: 2px;
+}
+
+
+.user-message {
+    
+    text-align: right;
+    padding-right: 5px;
+    font-size: 18px;
+}
+
+.otheruser-message {
+    
+    text-align: left;
+    padding-right: 5px;
+    font-size: 18px;
+}
+
+.message {
+    
+    display: inline-flex;
+    margin: 0px auto 0px auto;
+    padding: 5px;
+    font-size: 14px;
+    color:rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-top: 3px;
+}
+
+.from-user {
+   color:black;
+    font-size: small;
+    margin-bottom: 3px;
+    margin-right: 5px;
+}
+
+.messageSend{
+    position: sticky;
+    max-width: 100;
+    float: right;
+    width: auto;
+}
+
+
+.codePage{
+    display: inline-flex;
+}
+.verticalLine {
+    padding-right: 50px;
+  }

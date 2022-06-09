@@ -1,0 +1,105 @@
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.exe
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.dll
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.Views.dll
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\natha\csharp random\DHclean\DHeaven-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\natha\csharp random\DHclean\DHeaven-main\bin\Debug\net5.0\appsettings.json
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.csproj.AssemblyReference.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.AssemblyInfoInputs.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.AssemblyInfo.cs
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.csproj.CoreCompileInputs.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.RazorAssemblyInfo.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.RazorAssemblyInfo.cs
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\scopedcss\bundle\geenidee.styles.css
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\staticwebassets\geenidee.StaticWebAssets.Manifest.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.TagHelpers.input.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.TagHelpers.output.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.RazorCoreGenerate.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.RazorTargetAssemblyInfo.cache
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.RazorTargetAssemblyInfo.cs
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.Views.pdb
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.csproj.CopyComplete
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.dll
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\refint\geenidee.dll
+C:\Users\natha\csharp random\DHclean\DHeaven-main\obj\Debug\net5.0\geenidee.pdb
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.deps.json
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.runtimeconfig.json
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.runtimeconfig.dev.json
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.pdb
+C:\Users\natha\csharp random\DHclean\dheaven-main\bin\Debug\net5.0\geenidee.Views.pdb
+C:\Users\natha\csharp random\DHclean\dheaven-main\obj\Debug\net5.0\geenidee.genruntimeconfig.cache
+C:\Users\natha\csharp random\DHclean\dheaven-main\obj\Debug\net5.0\ref\geenidee.dll
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\appsettings.json
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.exe
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.deps.json
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.runtimeconfig.json
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.runtimeconfig.dev.json
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.dll
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.pdb
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.Views.dll
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\geenidee.Views.pdb
+C:\Users\natha\Downloads\newDH-main\newDH-main\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.csproj.AssemblyReference.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.AssemblyInfoInputs.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.AssemblyInfo.cs
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.csproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.RazorAssemblyInfo.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.RazorAssemblyInfo.cs
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\scopedcss\bundle\geenidee.styles.css
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\staticwebassets\geenidee.StaticWebAssets.Manifest.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.TagHelpers.input.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.TagHelpers.output.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.RazorCoreGenerate.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.RazorTargetAssemblyInfo.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.RazorTargetAssemblyInfo.cs
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.Views.pdb
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.csproj.CopyComplete
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.dll
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\refint\geenidee.dll
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.pdb
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\geenidee.genruntimeconfig.cache
+C:\Users\natha\Downloads\newDH-main\newDH-main\obj\Debug\net5.0\ref\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\appsettings.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.exe
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.deps.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.runtimeconfig.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.runtimeconfig.dev.json
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.pdb
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.Views.dll
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\geenidee.Views.pdb
+C:\Users\1011555\Desktop\Nieuwe app\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.csproj.AssemblyReference.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.AssemblyInfoInputs.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.AssemblyInfo.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.csproj.CoreCompileInputs.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.RazorAssemblyInfo.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.RazorAssemblyInfo.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\scopedcss\bundle\geenidee.styles.css
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\staticwebassets\geenidee.StaticWebAssets.Manifest.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.TagHelpers.input.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.TagHelpers.output.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.RazorCoreGenerate.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.RazorTargetAssemblyInfo.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.RazorTargetAssemblyInfo.cs
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.Views.pdb
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.csproj.CopyComplete
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\refint\geenidee.dll
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.pdb
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\geenidee.genruntimeconfig.cache
+C:\Users\1011555\Desktop\Nieuwe app\obj\Debug\net5.0\ref\geenidee.dll
