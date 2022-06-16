@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import AceEditor from 'react-ace'
 import './console.css';
 // https://securingsincity.github.io/react-ace/
@@ -7,12 +7,7 @@ import "ace-builds/src-noconflict/mode-javascript";
 import "ace-builds/src-noconflict/theme-monokai";
 import "ace-builds/src-noconflict/ext-language_tools";
 
-//import console from './console';
 
-
-let consoleMessages = [];
-
-let xxx = "";
 
 
 class CodeEditor extends React.Component{
@@ -21,7 +16,6 @@ class CodeEditor extends React.Component{
         this.state = {
             text: `console.log("Hello world")`,
             client: new WebSocket(`ws://localhost:3000/ws?name=${props.roomName}`),
-            //consoleMessages : [],
             output: ``
         };
     }
@@ -30,6 +24,7 @@ class CodeEditor extends React.Component{
         this.setState({ text: newValue });
         this.sendText(newValue)
     }
+
 
 
     componentDidMount() {
@@ -48,10 +43,12 @@ class CodeEditor extends React.Component{
             //self.updateText(z);
         };
         (function () {
-            var old = console.log;
-            var old2 = console.warn;
+            var oldlog = console.log;
+            var oldwarn = console.warn;
+            var olderr = console.error;
             var logger = document.getElementsByClassName('console')[0];
             console.log = function () {
+                oldlog(arguments)
               for (var i = 0; i < arguments.length; i++) {
                 if (typeof arguments[i] == 'object') {
                     logger.innerHTML += "> " + (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<br />';
@@ -65,6 +62,7 @@ class CodeEditor extends React.Component{
               }
             }
             console.error = function (err) {
+                olderr(err)
                 if(err.name == undefined){
                     return;
                 }
@@ -72,7 +70,7 @@ class CodeEditor extends React.Component{
                 logger.innerHTML += "> " + err + '<br />';
             }
             console.warn = function (text) {
-                old2(text)
+                oldwarn(text)
             }
             
         })();
@@ -115,6 +113,10 @@ class CodeEditor extends React.Component{
     
 
     resetCode = () => {
+        //console.log(this.refs.aceEditor.editor.getCursorPosition())
+        //this.refs.aceEditor.editor.moveCursorTo(1, 1, true)
+
+
         var logger = document.getElementsByClassName('console')[0];
         logger.innerHTML = "";
     }
@@ -123,6 +125,7 @@ class CodeEditor extends React.Component{
         return (
          <div className='theEditor'>
              <AceEditor
+                ref='aceEditor'
                 className='editguy'
                 placeholder="Placeholder Text"
                 mode="javascript"
