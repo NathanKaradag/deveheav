@@ -49,17 +49,30 @@ class CodeEditor extends React.Component{
         };
         (function () {
             var old = console.log;
+            var old2 = console.warn;
             var logger = document.getElementsByClassName('console')[0];
             console.log = function () {
               for (var i = 0; i < arguments.length; i++) {
                 if (typeof arguments[i] == 'object') {
                     logger.innerHTML += "> " + (JSON && JSON.stringify ? JSON.stringify(arguments[i], undefined, 2) : arguments[i]) + '<br />';
-                    old("done1");
-                } else {
+                }
+                else if(typeof arguments[i] == 'string'){
+                    logger.innerHTML += '> "'+ arguments[i] + '" <br />';
+                }
+                else {
                     logger.innerHTML += "> " + arguments[i] + '<br />';
-                    old("done");
                 }
               }
+            }
+            console.error = function (err) {
+                if(err.name == undefined){
+                    return;
+                }
+
+                logger.innerHTML += "> " + err + '<br />';
+            }
+            console.warn = function (text) {
+                old2(text)
             }
             
         })();
