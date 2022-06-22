@@ -86,7 +86,50 @@ class CodeEditor extends React.Component{
     }
 
     updateText = (key) => {
+        var editor = this.refs.aceEditor.editor;
+
+
+        var cursorPosition = editor.getCursorPosition();
+        //console.log(editor.getCursorPosition());
+
+        var row = cursorPosition.row;
+        var column = cursorPosition.column;
+        
+
+        var lineValue = editor.session.getLine(row);
+
         this.setState({text: key});
+
+
+        var updatedLine = editor.session.getLine(0);
+       
+
+        if(lineValue == updatedLine){
+            //console.log("Current line stays the same");
+        }
+        else{
+            if(updatedLine == lineValue.slice(1)){
+                //console.log("move left");
+                editor.moveCursorTo(row, column-1);
+            }
+            else if(updatedLine.slice(1) == lineValue){
+                //console.log("move right");
+                editor.moveCursorTo(row, column+1);
+            }
+            else{
+                //console.log("Nothing happened")
+            }
+
+
+            //console.log(lineValue.slice(1))
+            //console.log(lineValue.slice(0, -1))
+
+            //console.log(lineValue.length)
+        }
+
+        //editor.moveCursorTo(row, column);
+
+
     }
 
     sendText = (key) => {
@@ -113,10 +156,19 @@ class CodeEditor extends React.Component{
     
 
     resetCode = () => {
-        //console.log(this.refs.aceEditor.editor.getCursorPosition())
-        //this.refs.aceEditor.editor.moveCursorTo(1, 1, true)
+        /*
+        var editor = this.refs.aceEditor.editor;
 
-
+        console.log(editor.getCursorPosition());
+        var cursorPosition = editor.getCursorPosition();
+        var row = cursorPosition.row;
+        var column = cursorPosition.column;
+        
+        var lineValue = editor.session.getLine(1);
+        
+        if()
+        editor.moveCursorTo(row, column);
+        */
         var logger = document.getElementsByClassName('console')[0];
         logger.innerHTML = "";
     }
